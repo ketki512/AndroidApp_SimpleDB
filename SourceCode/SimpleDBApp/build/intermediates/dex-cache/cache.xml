@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files (x86)\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\SimpleDBTest1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-c654a30dfce1a11f7f7e28fc7a398fbf84f06c54.jar" />
+    </item>
+    <item
+        jar="C:\SimpleDBTest1 - Copy\app\libs\aws-android-sdk-1.7.1.1-debug.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="27fa3ced5b21168b22f53a4df68ac96ea79d4a32">
+        <dex dex="C:\SimpleDBTest1 - Copy\app\build\intermediates\pre-dexed\debug\aws-android-sdk-1.7.1.1-debug-216df11997a9d6288152ee12cee7e604f1082771.jar" />
+    </item>
+    <item
+        jar="D:\SimpleDBTest1\app\libs\aws-android-sdk-1.7.1.1-debug.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="27fa3ced5b21168b22f53a4df68ac96ea79d4a32">
+        <dex dex="D:\SimpleDBTest1\app\build\intermediates\pre-dexed\debug\aws-android-sdk-1.7.1.1-debug-fed9a64e406f97bec94a4f31f2385c4b3834ec18.jar" />
+    </item>
+    <item
+        jar="D:\SimpleDBTest1 - Copy\app\libs\aws-android-sdk-1.7.1.1-debug.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="27fa3ced5b21168b22f53a4df68ac96ea79d4a32">
+        <dex dex="D:\SimpleDBTest1 - Copy\app\build\intermediates\pre-dexed\debug\aws-android-sdk-1.7.1.1-debug-f6c434fd4f1d39879d77cde12de880f08dbb39a2.jar" />
+    </item>
+
+</items>

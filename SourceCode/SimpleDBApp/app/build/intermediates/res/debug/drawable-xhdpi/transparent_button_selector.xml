@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"><shape>
+            <solid android:color="#e0e0e0" />
+
+            <corners android:radius="2dp" />
+        </shape></item>
+    <item android:state_focused="true"><shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#e0e0e0" />
+
+            <corners android:radius="2dp" />
+        </shape></item>
+    <item android:state_focused="false"><shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#07000000" />
+
+
+            <corners android:radius="2dp" />
+        </shape></item>
+    <item android:state_pressed="false"><shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#07000000" />
+            <corners android:radius="2dp" />
+        </shape></item>
+
+</selector><!-- From: file:/C:/SimpleDBApp/app/src/main/res/drawable-xhdpi/transparent_button_selector.xml -->
